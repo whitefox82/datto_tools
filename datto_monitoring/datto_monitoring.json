@@ -1,0 +1,49 @@
+{
+    "companies": [
+        {
+            "name": "ACUMEN",
+            "sending_email": "AcumenNotify@acumennz.com",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "AOTEA",
+            "sending_email": "AoteaNotify@aoteaelectric.co.nz",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "AUTOHUB",
+            "sending_email": "alerts@autohub.com",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "LEADERBRAND",
+            "sending_email": "LeaderbrandNotify@leaderbrand.co.nz",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "RECORP",
+            "sending_email": "alerts@recorp.com",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "RIVERSUN",
+            "sending_email": "alerts@riversun.com",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "TĀTAU",
+            "sending_email": "ttotwnotify@ttotw.iwi.nz",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "TATAU",
+            "sending_email": "ttotwnotify@ttotw.iwi.nz",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        },
+        {
+            "name": "TRUST",
+            "sending_email": "TrustNotify@trustmanagement.co.nz",
+            "receiving_email": "servicedesk@fusionneteworks.co.nz"
+        }
+    ]
+}
